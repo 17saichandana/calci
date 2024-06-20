@@ -1,0 +1,26 @@
+{
+  "name": "193",
+  "version": "1.0.0",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17saichandana/Mniproj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/17saichandana/Mniproj/issues"
+  },
+  "homepage": "https://github.com/17saichandana/Mniproj#readme",
+  "description": ""
+}
